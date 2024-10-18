@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-✅****Situation:**** AtliQ Hardwares (imaginary company) is one of India's leading computer hardware producers, with a presence in other countries as well. However, the management noticed they lacked the insights needed to make quick and informed decisions, limiting their ability to respond to market changes.
+✅****Situation:**** AtliQ Hardwares (imaginary company) is one of India's leading computer hardware producers, with a presence in other countries as well. However, the management noticed they lacked the insights to make quick and informed decisions, limiting their ability to respond to market changes.
 
 ✅****Task:**** As a hypothetical applicant for the role, my responsibility was to address this gap by providing actionable insights through data analysis, and helping the management make smarter, data-driven decisions.
 
@@ -48,7 +48,7 @@ The project is organized as follows:
 The details of gross prices with product code.
 
 [4] fact_manufacturing_cost
-The details of manufacturing cost with product code with year.
+The details of the manufacturing cost are included in the product code and year.
   
 [5] fact_Pre_invoice_dedutions
 The details of pre-invoice deductions percentage for each customer with year.  
@@ -57,4 +57,4 @@ The details of pre-invoice deductions percentage for each customer with year.
 Contains the value of sold quantity.  
 </pre>
 
-<img src="https://github.com/tyagi-mansi11/img/blob/e611edd75d41faa69f11c5438dbaa8d17b927855/Screenshot%202024-10-14%20232837.png"  width="550" height="400">
+<img src="https://github.com/tyagi-mansi11/Ad_Hoc_Analysis/blob/382a39747f3a58183c3e60d58ad31ad33e835294/Schema.png"  width="550" height="400">
